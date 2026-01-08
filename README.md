@@ -57,7 +57,7 @@ The Excel dashboard provides a quick overview of key performance indicators and 
 
 📸 **Excel Dashboard Screenshot:**
 
-![Excel Dashboard](Screenshot%20(15).png)
+![Excel Dashboard](Excel%20dashboard.png)
 
 ---
 
@@ -74,7 +74,8 @@ The Power BI dashboard is designed for professional-level business analysis with
 
 📸 **Power BI Dashboard Screenshot:**
 
-![Power BI Dashboard](png)
+![Power BI Dashboard](power%20BI%20dashboard.png)
+
 
 ---
 

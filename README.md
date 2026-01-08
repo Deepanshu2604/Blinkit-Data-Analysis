@@ -169,11 +169,5 @@ Excel was used for:
 └── 📄 README.md
 
 
----
 
-
-## 🙏 Thank You!
-
-Thank you for exploring this project 😊  
-If you found it useful, feel free to ⭐ star the repository and connect with me!
 

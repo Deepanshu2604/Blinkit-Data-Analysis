@@ -169,9 +169,18 @@ Excel was used for:
 └── 📄 README.md
 
 
-Deepanshu Dargan
-💼 Aspiring Data Analyst | Passionate about Data, BI & Storytelling
-📍 India
-📧 deepanshudargan@gmail.com
+## 🙋‍♂️ About Me
 
-🙏 Thank You!
+**Deepanshu Dargan**  
+
+💼 Aspiring Data Analyst | Passionate about BI and Data Storytelling  
+
+📧 **deepanshudargan@gmail.com**  
+📍 India
+
+
+## 🙏 Thank You!
+
+Thank you for exploring this project 😊  
+If you found it useful, feel free to ⭐ star the repository and connect with me!
+

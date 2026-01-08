@@ -40,11 +40,3 @@ The main goal of this project is to:
 
 ---
 
-## 🗂️ Project Structure
-
-Blinkit-Data-Analysis/
-│
-├── BlinkIT Grocery Data.csv
-├── Blinkit Analysis in Python.ipynb
-├── README.md
-

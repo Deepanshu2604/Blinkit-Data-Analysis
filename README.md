@@ -1,6 +1,6 @@
-# 🛒 Blinkit Grocery Sales Data Analysis
+# 🛒 Blinkit Data Analysis
 
-Welcome to the **Blinkit Grocery Sales Data Analysis** project!  
+Welcome to the **Blinkit Data Analysis** project!  
 This is a **real-world Business Intelligence & Data Analytics case study** where sales and outlet performance data is analyzed using **SQL, Python, Excel, and Power BI** to generate meaningful business insights.
 
 This project demonstrates how a **Data Analyst** converts raw data into actionable insights and presents them through interactive dashboards for stakeholders.

@@ -168,6 +168,7 @@ Excel was used for:
 │
 └── 📄 README.md
 
+---
 
 ## 🙋‍♂️ About Me
 
@@ -178,6 +179,7 @@ Excel was used for:
 📧 **deepanshudargan@gmail.com**  
 📍 India
 
+---
 
 ## 🙏 Thank You!
 

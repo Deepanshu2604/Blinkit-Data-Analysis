@@ -172,17 +172,6 @@ Excel was used for:
 ---
 
 
-## 🙋‍♂️ About Me
-
-**Deepanshu Dargan**  
-
-💼 Aspiring Data Analyst | Passionate about BI and Data Storytelling  
-
-📧 **deepanshudargan@gmail.com**  
-📍 India
-
----
-
 ## 🙏 Thank You!
 
 Thank you for exploring this project 😊  
